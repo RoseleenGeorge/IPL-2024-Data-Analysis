@@ -1,0 +1,589 @@
+Player Name,Team,Opponent Team,Match Date,Stadium,Matches Played,Total Score,Individual Match Score,Bowler Name,Runs Given (Bowler),Wickets Taken,Catches,Dismissals
+MS Dhoni,CSK,RR,2024-04-09,Rajiv Gandhi,1,482,77,Ruturaj Gaikwad,56,1,1,1
+MS Dhoni,CSK,PBKS,2024-05-30,Eden Gardens,1,379,15,MS Dhoni,21,5,0,1
+MS Dhoni,CSK,MI,2024-05-27,Sawai Mansingh,1,325,33,Ravindra Jadeja,33,2,1,3
+MS Dhoni,CSK,GT,2024-04-26,Chinnaswamy,1,74,6,Ravindra Jadeja,28,4,3,0
+MS Dhoni,CSK,KKR,2024-04-15,Sawai Mansingh,1,35,115,Moeen Ali,41,1,2,3
+MS Dhoni,CSK,LSG,2024-05-23,Chepauk,1,302,39,Ravindra Jadeja,16,0,0,2
+MS Dhoni,CSK,PBKS,2024-04-16,Sawai Mansingh,1,296,86,MS Dhoni,45,2,1,4
+MS Dhoni,CSK,LSG,2024-04-09,Arun Jaitley,1,98,59,MS Dhoni,56,5,3,2
+MS Dhoni,CSK,KKR,2024-05-22,Rajiv Gandhi,1,180,25,MS Dhoni,37,3,2,1
+MS Dhoni,CSK,PBKS,2024-05-20,Eden Gardens,1,114,60,Moeen Ali,39,3,1,2
+MS Dhoni,CSK,SRH,2024-05-29,Motera,1,295,6,Ruturaj Gaikwad,38,1,3,3
+Ruturaj Gaikwad,CSK,RR,2024-05-27,Rajiv Gandhi,1,193,118,Ravindra Jadeja,51,1,2,2
+Ruturaj Gaikwad,CSK,KKR,2024-05-21,Wankhede,1,426,6,Ruturaj Gaikwad,20,5,3,3
+Ruturaj Gaikwad,CSK,SRH,2024-04-10,Rajiv Gandhi,1,501,84,MS Dhoni,21,1,3,0
+Ruturaj Gaikwad,CSK,SRH,2024-05-21,Eden Gardens,1,229,16,Ravindra Jadeja,21,2,3,4
+Ruturaj Gaikwad,CSK,RR,2024-05-17,Rajiv Gandhi,1,65,56,MS Dhoni,38,1,3,1
+Ruturaj Gaikwad,CSK,DC,2024-05-19,Chepauk,1,447,73,MS Dhoni,59,1,0,0
+Ruturaj Gaikwad,CSK,RR,2024-05-05,Rajiv Gandhi,1,431,3,Moeen Ali,15,3,1,4
+Ruturaj Gaikwad,CSK,KKR,2024-05-11,Sawai Mansingh,1,381,72,Ruturaj Gaikwad,43,2,0,2
+Ruturaj Gaikwad,CSK,KKR,2024-05-13,Chinnaswamy,1,465,5,Deepak Chahar,38,1,0,0
+Ruturaj Gaikwad,CSK,DC,2024-04-20,Eden Gardens,1,350,19,Moeen Ali,45,5,3,2
+Ruturaj Gaikwad,CSK,LSG,2024-05-19,Rajiv Gandhi,1,470,71,Ruturaj Gaikwad,36,3,2,3
+Deepak Chahar,CSK,DC,2024-05-27,Wankhede,1,319,15,Ravindra Jadeja,39,4,1,2
+Deepak Chahar,CSK,RCB,2024-04-01,Rajiv Gandhi,1,181,86,Moeen Ali,37,3,2,2
+Deepak Chahar,CSK,LSG,2024-05-05,Chepauk,1,403,95,Ruturaj Gaikwad,43,5,3,2
+Deepak Chahar,CSK,RR,2024-05-10,Motera,1,140,41,Deepak Chahar,31,1,0,4
+Deepak Chahar,CSK,LSG,2024-05-03,Arun Jaitley,1,496,59,Deepak Chahar,42,2,3,1
+Deepak Chahar,CSK,DC,2024-04-04,Motera,1,485,31,Ruturaj Gaikwad,18,1,3,1
+Deepak Chahar,CSK,GT,2024-04-13,Chinnaswamy,1,383,0,Moeen Ali,52,5,1,0
+Deepak Chahar,CSK,LSG,2024-05-05,Chinnaswamy,1,112,79,MS Dhoni,56,1,1,3
+Deepak Chahar,CSK,PBKS,2024-05-14,Chepauk,1,316,62,Ruturaj Gaikwad,57,1,3,1
+Deepak Chahar,CSK,RCB,2024-05-09,Eden Gardens,1,518,108,Moeen Ali,21,1,2,3
+Deepak Chahar,CSK,DC,2024-05-04,Arun Jaitley,1,457,28,Ruturaj Gaikwad,29,4,1,3
+Deepak Chahar,CSK,PBKS,2024-05-09,Eden Gardens,1,77,63,MS Dhoni,17,0,3,4
+Deepak Chahar,CSK,SRH,2024-04-23,Wankhede,1,328,75,Ravindra Jadeja,10,5,3,3
+Deepak Chahar,CSK,SRH,2024-04-02,Sawai Mansingh,1,351,35,Ravindra Jadeja,54,1,0,0
+Ravindra Jadeja,CSK,LSG,2024-05-21,Motera,1,461,47,Moeen Ali,19,2,2,0
+Ravindra Jadeja,CSK,RR,2024-05-15,Sawai Mansingh,1,434,67,MS Dhoni,56,0,0,1
+Ravindra Jadeja,CSK,PBKS,2024-04-18,Eden Gardens,1,321,114,Deepak Chahar,23,2,1,1
+Ravindra Jadeja,CSK,RR,2024-05-08,Rajiv Gandhi,1,417,9,MS Dhoni,37,1,3,3
+Ravindra Jadeja,CSK,GT,2024-05-19,Chinnaswamy,1,352,39,Ravindra Jadeja,31,5,3,2
+Ravindra Jadeja,CSK,LSG,2024-04-17,Rajiv Gandhi,1,378,114,MS Dhoni,23,5,1,1
+Ravindra Jadeja,CSK,RR,2024-05-04,Eden Gardens,1,280,46,MS Dhoni,59,4,0,1
+Ravindra Jadeja,CSK,RCB,2024-05-22,Sawai Mansingh,1,1,87,Deepak Chahar,23,4,3,3
+Ravindra Jadeja,CSK,GT,2024-05-21,Motera,1,353,104,Deepak Chahar,22,4,2,1
+Ravindra Jadeja,CSK,KKR,2024-05-12,Chinnaswamy,1,282,51,Ravindra Jadeja,59,2,1,4
+Ravindra Jadeja,CSK,RR,2024-04-24,Motera,1,233,102,Deepak Chahar,60,3,3,2
+Ravindra Jadeja,CSK,RR,2024-05-05,Wankhede,1,85,32,Ravindra Jadeja,41,1,0,2
+Ravindra Jadeja,CSK,KKR,2024-04-12,Arun Jaitley,1,14,13,MS Dhoni,28,1,1,4
+Moeen Ali,CSK,PBKS,2024-05-01,Chepauk,1,10,85,Ravindra Jadeja,34,3,0,3
+Moeen Ali,CSK,MI,2024-05-18,Arun Jaitley,1,344,25,Deepak Chahar,15,1,0,1
+Moeen Ali,CSK,RR,2024-05-16,Wankhede,1,167,45,Ruturaj Gaikwad,27,0,2,2
+Moeen Ali,CSK,KKR,2024-05-12,Chepauk,1,335,10,Moeen Ali,27,2,3,1
+Moeen Ali,CSK,SRH,2024-05-20,Arun Jaitley,1,9,91,Ravindra Jadeja,26,4,3,4
+Moeen Ali,CSK,RR,2024-05-01,Wankhede,1,434,41,MS Dhoni,58,1,3,1
+Moeen Ali,CSK,LSG,2024-04-21,Motera,1,122,3,Deepak Chahar,15,5,2,2
+Moeen Ali,CSK,MI,2024-04-18,Arun Jaitley,1,319,85,Ruturaj Gaikwad,15,3,0,3
+Moeen Ali,CSK,GT,2024-04-29,Rajiv Gandhi,1,483,64,MS Dhoni,52,2,0,0
+Moeen Ali,CSK,DC,2024-04-28,Chepauk,1,269,114,Ruturaj Gaikwad,19,4,0,2
+Moeen Ali,CSK,LSG,2024-05-08,Rajiv Gandhi,1,21,67,Ravindra Jadeja,19,3,3,3
+Moeen Ali,CSK,GT,2024-04-15,Motera,1,418,7,Ruturaj Gaikwad,54,0,1,1
+Moeen Ali,CSK,PBKS,2024-04-20,Rajiv Gandhi,1,448,13,Ravindra Jadeja,54,3,1,2
+Moeen Ali,CSK,GT,2024-04-02,Motera,1,600,74,Ravindra Jadeja,33,1,0,0
+Rohit Sharma,MI,RR,2024-04-02,Sawai Mansingh,1,398,96,Cameron Green,29,0,0,3
+Rohit Sharma,MI,DC,2024-05-26,Motera,1,12,39,Jasprit Bumrah,25,0,2,1
+Rohit Sharma,MI,LSG,2024-04-21,Wankhede,1,360,17,Cameron Green,31,3,0,1
+Rohit Sharma,MI,RR,2024-05-23,Chinnaswamy,1,28,48,Cameron Green,48,3,0,0
+Rohit Sharma,MI,LSG,2024-04-03,Chinnaswamy,1,154,99,Cameron Green,16,0,1,0
+Rohit Sharma,MI,KKR,2024-04-19,Wankhede,1,268,9,Jasprit Bumrah,13,2,0,0
+Rohit Sharma,MI,PBKS,2024-04-06,Eden Gardens,1,260,62,Ishan Kishan,52,2,2,2
+Rohit Sharma,MI,PBKS,2024-04-21,Chepauk,1,369,56,Suryakumar Yadav,54,0,3,0
+Rohit Sharma,MI,GT,2024-04-15,Eden Gardens,1,250,98,Suryakumar Yadav,29,3,0,3
+Rohit Sharma,MI,GT,2024-05-16,Arun Jaitley,1,33,103,Rohit Sharma,49,2,0,3
+Rohit Sharma,MI,LSG,2024-04-29,Eden Gardens,1,113,12,Jasprit Bumrah,31,1,1,1
+Rohit Sharma,MI,RR,2024-05-12,Chepauk,1,484,30,Cameron Green,47,3,2,3
+Rohit Sharma,MI,RR,2024-05-03,Rajiv Gandhi,1,217,116,Cameron Green,16,4,0,2
+Jasprit Bumrah,MI,DC,2024-05-21,Chepauk,1,489,37,Jasprit Bumrah,31,4,0,1
+Jasprit Bumrah,MI,SRH,2024-05-30,Eden Gardens,1,181,59,Ishan Kishan,40,1,1,0
+Jasprit Bumrah,MI,DC,2024-04-22,Arun Jaitley,1,345,90,Jasprit Bumrah,16,2,2,0
+Jasprit Bumrah,MI,LSG,2024-05-16,Chinnaswamy,1,59,71,Ishan Kishan,24,2,1,3
+Jasprit Bumrah,MI,GT,2024-04-06,Rajiv Gandhi,1,37,41,Ishan Kishan,16,5,2,2
+Jasprit Bumrah,MI,SRH,2024-04-18,Chinnaswamy,1,83,19,Suryakumar Yadav,58,0,3,2
+Jasprit Bumrah,MI,GT,2024-05-11,Chinnaswamy,1,522,58,Rohit Sharma,25,1,1,1
+Jasprit Bumrah,MI,SRH,2024-05-15,Chepauk,1,518,35,Suryakumar Yadav,21,1,3,3
+Jasprit Bumrah,MI,RCB,2024-04-06,Eden Gardens,1,168,105,Rohit Sharma,27,1,1,3
+Jasprit Bumrah,MI,RCB,2024-05-26,Arun Jaitley,1,409,47,Rohit Sharma,48,3,0,0
+Suryakumar Yadav,MI,DC,2024-04-22,Rajiv Gandhi,1,205,68,Rohit Sharma,47,4,1,3
+Suryakumar Yadav,MI,DC,2024-05-14,Arun Jaitley,1,176,49,Suryakumar Yadav,50,0,0,0
+Suryakumar Yadav,MI,LSG,2024-04-24,Eden Gardens,1,439,14,Cameron Green,49,4,2,1
+Suryakumar Yadav,MI,DC,2024-05-06,Arun Jaitley,1,527,49,Ishan Kishan,30,0,3,4
+Suryakumar Yadav,MI,RCB,2024-05-04,Sawai Mansingh,1,169,19,Jasprit Bumrah,20,3,2,1
+Suryakumar Yadav,MI,PBKS,2024-05-07,Rajiv Gandhi,1,487,31,Rohit Sharma,33,1,2,1
+Suryakumar Yadav,MI,DC,2024-04-01,Arun Jaitley,1,188,4,Jasprit Bumrah,29,4,3,1
+Suryakumar Yadav,MI,GT,2024-05-06,Chinnaswamy,1,399,113,Rohit Sharma,38,1,0,0
+Suryakumar Yadav,MI,RCB,2024-04-03,Wankhede,1,423,34,Suryakumar Yadav,14,1,1,1
+Suryakumar Yadav,MI,PBKS,2024-05-16,Chinnaswamy,1,546,9,Ishan Kishan,31,4,3,2
+Ishan Kishan,MI,LSG,2024-05-30,Motera,1,470,118,Jasprit Bumrah,51,5,0,2
+Ishan Kishan,MI,SRH,2024-04-05,Chepauk,1,177,65,Jasprit Bumrah,16,3,0,4
+Ishan Kishan,MI,CSK,2024-04-30,Chepauk,1,153,105,Cameron Green,45,4,2,2
+Ishan Kishan,MI,RR,2024-04-16,Wankhede,1,159,86,Rohit Sharma,50,4,2,2
+Ishan Kishan,MI,KKR,2024-05-27,Arun Jaitley,1,24,10,Rohit Sharma,44,1,0,1
+Ishan Kishan,MI,PBKS,2024-05-16,Eden Gardens,1,184,95,Cameron Green,41,0,0,2
+Ishan Kishan,MI,GT,2024-04-30,Rajiv Gandhi,1,503,92,Jasprit Bumrah,18,0,3,1
+Ishan Kishan,MI,GT,2024-05-28,Rajiv Gandhi,1,599,14,Suryakumar Yadav,14,5,2,0
+Ishan Kishan,MI,RCB,2024-05-09,Sawai Mansingh,1,416,81,Rohit Sharma,11,5,2,4
+Ishan Kishan,MI,KKR,2024-04-29,Motera,1,598,36,Ishan Kishan,11,5,2,4
+Ishan Kishan,MI,LSG,2024-05-06,Wankhede,1,347,1,Cameron Green,15,0,3,0
+Cameron Green,MI,SRH,2024-04-04,Chepauk,1,27,26,Jasprit Bumrah,18,2,0,4
+Cameron Green,MI,PBKS,2024-05-13,Eden Gardens,1,100,104,Ishan Kishan,33,0,0,3
+Cameron Green,MI,GT,2024-05-16,Rajiv Gandhi,1,187,74,Ishan Kishan,39,3,0,2
+Cameron Green,MI,PBKS,2024-04-11,Rajiv Gandhi,1,160,32,Jasprit Bumrah,49,4,0,4
+Cameron Green,MI,PBKS,2024-04-18,Rajiv Gandhi,1,2,79,Rohit Sharma,27,0,3,0
+Cameron Green,MI,PBKS,2024-04-24,Arun Jaitley,1,152,37,Suryakumar Yadav,41,1,0,1
+Cameron Green,MI,SRH,2024-04-10,Eden Gardens,1,448,21,Jasprit Bumrah,55,4,2,0
+Cameron Green,MI,RCB,2024-05-10,Arun Jaitley,1,493,3,Cameron Green,57,2,0,3
+Cameron Green,MI,LSG,2024-04-22,Eden Gardens,1,7,107,Ishan Kishan,44,0,2,0
+Cameron Green,MI,SRH,2024-04-05,Chinnaswamy,1,194,28,Ishan Kishan,20,0,1,4
+Cameron Green,MI,RR,2024-05-21,Rajiv Gandhi,1,579,21,Suryakumar Yadav,29,2,0,1
+Cameron Green,MI,SRH,2024-05-13,Rajiv Gandhi,1,379,105,Rohit Sharma,59,4,3,3
+Virat Kohli,RCB,LSG,2024-04-16,Chepauk,1,205,100,Virat Kohli,42,1,1,0
+Virat Kohli,RCB,GT,2024-05-27,Motera,1,105,92,Josh Hazlewood,19,5,1,4
+Virat Kohli,RCB,MI,2024-04-18,Motera,1,241,61,Glenn Maxwell,38,1,3,4
+Virat Kohli,RCB,RR,2024-05-17,Arun Jaitley,1,464,69,Virat Kohli,10,0,2,4
+Virat Kohli,RCB,GT,2024-05-29,Sawai Mansingh,1,339,47,Virat Kohli,35,5,0,0
+Virat Kohli,RCB,PBKS,2024-04-07,Eden Gardens,1,211,59,Faf du Plessis,46,2,3,4
+Virat Kohli,RCB,LSG,2024-04-01,Chepauk,1,312,26,Josh Hazlewood,42,4,3,0
+Virat Kohli,RCB,GT,2024-05-18,Eden Gardens,1,94,113,Faf du Plessis,46,3,0,0
+Virat Kohli,RCB,SRH,2024-04-29,Wankhede,1,6,14,Virat Kohli,58,0,0,0
+Virat Kohli,RCB,SRH,2024-05-23,Chepauk,1,450,38,Mohammed Siraj,35,5,2,2
+Faf du Plessis,RCB,PBKS,2024-05-16,Rajiv Gandhi,1,513,117,Josh Hazlewood,42,2,0,4
+Faf du Plessis,RCB,GT,2024-05-30,Wankhede,1,504,25,Faf du Plessis,48,0,0,3
+Faf du Plessis,RCB,CSK,2024-05-09,Chepauk,1,596,63,Glenn Maxwell,48,3,3,3
+Faf du Plessis,RCB,PBKS,2024-04-09,Rajiv Gandhi,1,231,89,Faf du Plessis,49,1,1,3
+Faf du Plessis,RCB,PBKS,2024-05-16,Arun Jaitley,1,101,57,Glenn Maxwell,13,3,2,2
+Faf du Plessis,RCB,DC,2024-05-23,Motera,1,231,70,Virat Kohli,10,0,1,1
+Faf du Plessis,RCB,DC,2024-04-21,Chinnaswamy,1,128,11,Faf du Plessis,12,4,1,1
+Faf du Plessis,RCB,MI,2024-04-26,Rajiv Gandhi,1,62,64,Mohammed Siraj,47,3,3,1
+Faf du Plessis,RCB,RR,2024-04-25,Rajiv Gandhi,1,500,12,Faf du Plessis,53,3,1,3
+Faf du Plessis,RCB,CSK,2024-05-30,Eden Gardens,1,114,41,Faf du Plessis,14,5,1,3
+Faf du Plessis,RCB,CSK,2024-04-08,Eden Gardens,1,541,27,Josh Hazlewood,34,2,0,2
+Faf du Plessis,RCB,CSK,2024-04-09,Arun Jaitley,1,9,50,Josh Hazlewood,35,0,2,4
+Glenn Maxwell,RCB,MI,2024-05-10,Wankhede,1,348,9,Josh Hazlewood,34,0,1,2
+Glenn Maxwell,RCB,MI,2024-05-12,Arun Jaitley,1,256,13,Josh Hazlewood,45,3,1,2
+Glenn Maxwell,RCB,SRH,2024-04-21,Chinnaswamy,1,93,65,Glenn Maxwell,19,4,3,0
+Glenn Maxwell,RCB,RR,2024-04-20,Motera,1,453,114,Virat Kohli,47,3,2,2
+Glenn Maxwell,RCB,RR,2024-05-13,Wankhede,1,327,9,Glenn Maxwell,18,1,0,3
+Glenn Maxwell,RCB,LSG,2024-05-27,Sawai Mansingh,1,422,90,Virat Kohli,59,5,2,1
+Glenn Maxwell,RCB,MI,2024-04-10,Chepauk,1,10,10,Faf du Plessis,34,5,0,2
+Glenn Maxwell,RCB,DC,2024-04-14,Arun Jaitley,1,407,69,Virat Kohli,44,4,0,3
+Glenn Maxwell,RCB,DC,2024-04-29,Sawai Mansingh,1,586,10,Glenn Maxwell,40,4,2,4
+Glenn Maxwell,RCB,PBKS,2024-05-16,Eden Gardens,1,440,44,Mohammed Siraj,60,5,2,2
+Mohammed Siraj,RCB,KKR,2024-05-13,Arun Jaitley,1,1,53,Glenn Maxwell,43,4,0,3
+Mohammed Siraj,RCB,PBKS,2024-04-30,Motera,1,527,59,Glenn Maxwell,19,5,2,0
+Mohammed Siraj,RCB,PBKS,2024-05-04,Chepauk,1,433,51,Virat Kohli,29,4,3,1
+Mohammed Siraj,RCB,GT,2024-04-08,Sawai Mansingh,1,92,101,Josh Hazlewood,30,0,1,2
+Mohammed Siraj,RCB,DC,2024-04-06,Wankhede,1,267,77,Virat Kohli,58,3,3,4
+Mohammed Siraj,RCB,DC,2024-05-17,Chepauk,1,173,25,Faf du Plessis,42,0,0,1
+Mohammed Siraj,RCB,KKR,2024-05-18,Arun Jaitley,1,205,13,Faf du Plessis,14,2,0,1
+Mohammed Siraj,RCB,MI,2024-05-01,Sawai Mansingh,1,187,9,Virat Kohli,15,3,1,1
+Mohammed Siraj,RCB,DC,2024-05-05,Chepauk,1,325,99,Glenn Maxwell,34,5,2,3
+Mohammed Siraj,RCB,RR,2024-05-29,Eden Gardens,1,3,13,Josh Hazlewood,43,5,3,4
+Mohammed Siraj,RCB,CSK,2024-05-22,Motera,1,390,89,Glenn Maxwell,26,5,2,1
+Mohammed Siraj,RCB,RR,2024-05-27,Rajiv Gandhi,1,455,65,Mohammed Siraj,43,5,1,4
+Josh Hazlewood,RCB,DC,2024-05-02,Motera,1,206,92,Faf du Plessis,11,5,2,3
+Josh Hazlewood,RCB,RR,2024-05-29,Wankhede,1,67,34,Virat Kohli,27,4,3,4
+Josh Hazlewood,RCB,PBKS,2024-04-02,Chinnaswamy,1,569,72,Virat Kohli,18,5,1,4
+Josh Hazlewood,RCB,CSK,2024-05-01,Chepauk,1,143,66,Glenn Maxwell,49,3,2,0
+Josh Hazlewood,RCB,CSK,2024-04-25,Eden Gardens,1,4,29,Josh Hazlewood,49,2,1,3
+Josh Hazlewood,RCB,MI,2024-05-09,Wankhede,1,409,36,Glenn Maxwell,56,5,1,4
+Josh Hazlewood,RCB,RR,2024-04-03,Eden Gardens,1,501,109,Virat Kohli,27,2,1,0
+Josh Hazlewood,RCB,GT,2024-05-22,Wankhede,1,448,104,Faf du Plessis,28,0,0,2
+Josh Hazlewood,RCB,CSK,2024-04-20,Arun Jaitley,1,183,81,Faf du Plessis,29,4,3,1
+Josh Hazlewood,RCB,CSK,2024-05-24,Wankhede,1,463,44,Faf du Plessis,11,2,0,1
+Hardik Pandya,GT,PBKS,2024-05-21,Chepauk,1,281,59,Shubman Gill,46,1,0,0
+Hardik Pandya,GT,CSK,2024-04-19,Eden Gardens,1,452,35,Rashid Khan,13,5,1,1
+Hardik Pandya,GT,KKR,2024-04-23,Wankhede,1,15,36,Rashid Khan,19,5,0,2
+Hardik Pandya,GT,RR,2024-05-26,Motera,1,159,73,David Miller,55,4,1,3
+Hardik Pandya,GT,SRH,2024-05-27,Eden Gardens,1,292,27,Mohammed Shami,33,5,3,1
+Hardik Pandya,GT,CSK,2024-04-18,Rajiv Gandhi,1,234,77,Shubman Gill,39,3,1,3
+Hardik Pandya,GT,CSK,2024-04-04,Motera,1,527,60,Rashid Khan,11,4,3,2
+Hardik Pandya,GT,PBKS,2024-05-06,Chepauk,1,251,90,Hardik Pandya,33,5,3,2
+Hardik Pandya,GT,RR,2024-05-22,Chinnaswamy,1,384,68,Rashid Khan,45,0,1,3
+Hardik Pandya,GT,DC,2024-04-29,Eden Gardens,1,294,25,Shubman Gill,15,1,3,1
+Hardik Pandya,GT,RCB,2024-05-10,Wankhede,1,582,3,Shubman Gill,24,0,2,2
+Shubman Gill,GT,LSG,2024-05-29,Arun Jaitley,1,485,85,Shubman Gill,56,0,2,2
+Shubman Gill,GT,MI,2024-05-18,Chepauk,1,136,62,Rashid Khan,12,5,0,2
+Shubman Gill,GT,RCB,2024-04-06,Chinnaswamy,1,584,50,Mohammed Shami,53,2,3,3
+Shubman Gill,GT,LSG,2024-05-03,Arun Jaitley,1,412,82,Hardik Pandya,13,2,2,0
+Shubman Gill,GT,DC,2024-04-23,Motera,1,60,30,Rashid Khan,32,3,3,4
+Shubman Gill,GT,RR,2024-05-03,Motera,1,241,43,Shubman Gill,32,0,0,3
+Shubman Gill,GT,MI,2024-05-25,Motera,1,72,8,Hardik Pandya,21,0,0,1
+Shubman Gill,GT,DC,2024-04-09,Rajiv Gandhi,1,467,100,Shubman Gill,35,0,3,1
+Shubman Gill,GT,KKR,2024-04-19,Chinnaswamy,1,346,6,Rashid Khan,21,2,2,3
+Shubman Gill,GT,SRH,2024-04-27,Arun Jaitley,1,97,13,Rashid Khan,43,0,2,2
+Shubman Gill,GT,RR,2024-04-16,Chepauk,1,120,90,Mohammed Shami,43,4,3,0
+Shubman Gill,GT,RR,2024-05-21,Wankhede,1,281,48,Mohammed Shami,17,3,3,4
+Rashid Khan,GT,MI,2024-04-25,Chinnaswamy,1,553,57,Shubman Gill,44,4,3,3
+Rashid Khan,GT,RR,2024-05-01,Chinnaswamy,1,235,57,Mohammed Shami,50,1,3,0
+Rashid Khan,GT,MI,2024-05-18,Eden Gardens,1,345,78,David Miller,39,5,2,3
+Rashid Khan,GT,RCB,2024-05-03,Eden Gardens,1,391,100,Rashid Khan,43,2,2,2
+Rashid Khan,GT,SRH,2024-04-12,Rajiv Gandhi,1,155,44,David Miller,47,4,1,1
+Rashid Khan,GT,MI,2024-04-12,Rajiv Gandhi,1,501,80,David Miller,19,0,2,0
+Rashid Khan,GT,PBKS,2024-04-28,Chinnaswamy,1,579,61,Shubman Gill,17,3,0,2
+Rashid Khan,GT,DC,2024-04-10,Eden Gardens,1,69,105,Shubman Gill,34,3,3,0
+Rashid Khan,GT,LSG,2024-05-01,Wankhede,1,169,113,Hardik Pandya,48,3,3,1
+Rashid Khan,GT,SRH,2024-05-06,Chinnaswamy,1,333,76,David Miller,38,2,0,3
+Mohammed Shami,GT,KKR,2024-04-27,Chepauk,1,437,8,Mohammed Shami,16,5,0,3
+Mohammed Shami,GT,KKR,2024-04-22,Rajiv Gandhi,1,27,106,Rashid Khan,60,5,1,3
+Mohammed Shami,GT,KKR,2024-05-06,Motera,1,187,74,Rashid Khan,48,3,2,3
+Mohammed Shami,GT,MI,2024-05-01,Chepauk,1,45,73,Shubman Gill,14,3,2,0
+Mohammed Shami,GT,RR,2024-04-10,Rajiv Gandhi,1,331,73,Hardik Pandya,52,0,2,3
+Mohammed Shami,GT,MI,2024-04-28,Sawai Mansingh,1,203,5,Hardik Pandya,28,1,0,2
+Mohammed Shami,GT,KKR,2024-05-03,Arun Jaitley,1,118,28,Hardik Pandya,27,0,1,3
+Mohammed Shami,GT,LSG,2024-04-02,Eden Gardens,1,340,66,Shubman Gill,52,5,3,1
+Mohammed Shami,GT,MI,2024-05-11,Wankhede,1,406,67,Mohammed Shami,19,3,1,2
+Mohammed Shami,GT,RR,2024-05-25,Arun Jaitley,1,15,59,Hardik Pandya,26,0,3,2
+David Miller,GT,MI,2024-05-25,Rajiv Gandhi,1,299,29,David Miller,11,0,3,3
+David Miller,GT,DC,2024-04-01,Arun Jaitley,1,461,30,Shubman Gill,18,4,1,0
+David Miller,GT,SRH,2024-05-19,Sawai Mansingh,1,548,89,Rashid Khan,32,1,0,4
+David Miller,GT,PBKS,2024-04-18,Eden Gardens,1,456,110,Rashid Khan,22,0,3,0
+David Miller,GT,SRH,2024-04-29,Chinnaswamy,1,402,113,Mohammed Shami,51,0,2,2
+David Miller,GT,RCB,2024-04-21,Rajiv Gandhi,1,501,103,Rashid Khan,40,4,2,1
+David Miller,GT,CSK,2024-05-20,Rajiv Gandhi,1,212,114,Mohammed Shami,51,5,2,1
+David Miller,GT,LSG,2024-04-24,Rajiv Gandhi,1,591,26,Rashid Khan,44,0,3,4
+David Miller,GT,PBKS,2024-05-03,Chepauk,1,543,98,David Miller,12,3,3,1
+David Miller,GT,RR,2024-04-05,Arun Jaitley,1,249,72,Rashid Khan,59,4,2,4
+David Miller,GT,LSG,2024-04-19,Sawai Mansingh,1,389,24,Mohammed Shami,49,4,3,0
+David Miller,GT,RR,2024-04-21,Rajiv Gandhi,1,31,57,Hardik Pandya,22,5,2,2
+David Miller,GT,RCB,2024-05-16,Wankhede,1,312,42,David Miller,51,2,0,2
+Andre Russell,KKR,CSK,2024-04-16,Chepauk,1,422,29,Andre Russell,32,1,0,0
+Andre Russell,KKR,RR,2024-04-11,Chepauk,1,303,113,Sunil Narine,44,0,0,1
+Andre Russell,KKR,SRH,2024-05-25,Sawai Mansingh,1,22,104,Venkatesh Iyer,13,2,1,3
+Andre Russell,KKR,LSG,2024-04-06,Chinnaswamy,1,300,97,Nitish Rana,44,4,0,2
+Andre Russell,KKR,RR,2024-05-30,Wankhede,1,359,1,Nitish Rana,16,3,0,4
+Andre Russell,KKR,MI,2024-04-15,Arun Jaitley,1,539,119,Venkatesh Iyer,17,4,2,4
+Andre Russell,KKR,MI,2024-04-12,Motera,1,466,114,Lockie Ferguson,15,5,2,2
+Andre Russell,KKR,CSK,2024-04-28,Wankhede,1,526,74,Nitish Rana,31,5,1,1
+Andre Russell,KKR,GT,2024-04-16,Chepauk,1,325,67,Nitish Rana,40,0,2,2
+Andre Russell,KKR,LSG,2024-05-11,Eden Gardens,1,35,30,Nitish Rana,58,5,0,2
+Andre Russell,KKR,SRH,2024-04-23,Chepauk,1,213,80,Venkatesh Iyer,39,4,2,4
+Sunil Narine,KKR,GT,2024-04-01,Motera,1,3,36,Nitish Rana,24,0,0,0
+Sunil Narine,KKR,PBKS,2024-04-15,Eden Gardens,1,396,50,Venkatesh Iyer,23,0,2,3
+Sunil Narine,KKR,RCB,2024-05-22,Wankhede,1,535,44,Venkatesh Iyer,27,2,0,2
+Sunil Narine,KKR,CSK,2024-04-04,Chepauk,1,49,67,Sunil Narine,28,0,0,1
+Sunil Narine,KKR,RCB,2024-04-01,Sawai Mansingh,1,194,120,Nitish Rana,26,2,2,4
+Sunil Narine,KKR,DC,2024-04-25,Wankhede,1,211,48,Lockie Ferguson,56,2,2,1
+Sunil Narine,KKR,MI,2024-05-18,Sawai Mansingh,1,359,109,Nitish Rana,32,1,0,2
+Sunil Narine,KKR,RCB,2024-04-06,Wankhede,1,213,17,Nitish Rana,48,4,0,4
+Sunil Narine,KKR,GT,2024-04-13,Rajiv Gandhi,1,456,74,Sunil Narine,41,0,2,2
+Sunil Narine,KKR,MI,2024-04-18,Rajiv Gandhi,1,29,118,Sunil Narine,40,2,3,4
+Sunil Narine,KKR,CSK,2024-05-04,Rajiv Gandhi,1,229,79,Lockie Ferguson,12,2,1,2
+Sunil Narine,KKR,MI,2024-04-18,Sawai Mansingh,1,70,35,Andre Russell,26,5,0,2
+Venkatesh Iyer,KKR,SRH,2024-04-29,Chinnaswamy,1,237,2,Sunil Narine,52,2,2,0
+Venkatesh Iyer,KKR,PBKS,2024-04-03,Chinnaswamy,1,314,96,Venkatesh Iyer,32,0,2,1
+Venkatesh Iyer,KKR,LSG,2024-05-07,Motera,1,60,37,Sunil Narine,53,2,3,1
+Venkatesh Iyer,KKR,RR,2024-04-12,Rajiv Gandhi,1,130,51,Andre Russell,60,1,3,2
+Venkatesh Iyer,KKR,DC,2024-05-12,Wankhede,1,162,64,Lockie Ferguson,45,0,0,1
+Venkatesh Iyer,KKR,MI,2024-05-01,Chepauk,1,148,84,Nitish Rana,29,3,3,4
+Venkatesh Iyer,KKR,PBKS,2024-04-03,Motera,1,212,31,Andre Russell,57,3,0,1
+Venkatesh Iyer,KKR,RCB,2024-04-17,Arun Jaitley,1,186,39,Lockie Ferguson,46,2,1,1
+Venkatesh Iyer,KKR,LSG,2024-04-07,Rajiv Gandhi,1,524,27,Nitish Rana,18,5,0,3
+Venkatesh Iyer,KKR,RCB,2024-04-19,Eden Gardens,1,510,66,Lockie Ferguson,58,2,0,4
+Nitish Rana,KKR,LSG,2024-05-25,Arun Jaitley,1,415,7,Lockie Ferguson,44,1,2,1
+Nitish Rana,KKR,CSK,2024-05-19,Sawai Mansingh,1,531,3,Lockie Ferguson,20,1,0,4
+Nitish Rana,KKR,SRH,2024-05-06,Chepauk,1,246,105,Sunil Narine,18,1,0,2
+Nitish Rana,KKR,GT,2024-05-20,Chepauk,1,68,12,Sunil Narine,34,1,0,0
+Nitish Rana,KKR,RR,2024-04-30,Sawai Mansingh,1,186,105,Lockie Ferguson,47,5,3,2
+Nitish Rana,KKR,MI,2024-04-23,Wankhede,1,151,25,Nitish Rana,29,0,3,1
+Nitish Rana,KKR,DC,2024-04-10,Wankhede,1,180,44,Lockie Ferguson,58,2,2,3
+Nitish Rana,KKR,LSG,2024-05-21,Rajiv Gandhi,1,309,68,Andre Russell,31,3,3,1
+Nitish Rana,KKR,RCB,2024-04-05,Chinnaswamy,1,28,109,Andre Russell,29,2,1,0
+Nitish Rana,KKR,LSG,2024-04-04,Sawai Mansingh,1,418,80,Andre Russell,45,4,0,3
+Nitish Rana,KKR,DC,2024-05-07,Motera,1,306,36,Venkatesh Iyer,50,2,2,3
+Nitish Rana,KKR,PBKS,2024-04-17,Arun Jaitley,1,145,89,Sunil Narine,37,1,3,3
+Nitish Rana,KKR,MI,2024-04-01,Rajiv Gandhi,1,85,115,Andre Russell,16,2,0,2
+Lockie Ferguson,KKR,CSK,2024-04-25,Wankhede,1,16,16,Nitish Rana,48,3,3,0
+Lockie Ferguson,KKR,SRH,2024-05-13,Chepauk,1,355,66,Nitish Rana,58,4,0,1
+Lockie Ferguson,KKR,CSK,2024-05-07,Motera,1,22,89,Sunil Narine,22,4,3,1
+Lockie Ferguson,KKR,PBKS,2024-05-20,Sawai Mansingh,1,22,72,Nitish Rana,42,3,2,3
+Lockie Ferguson,KKR,LSG,2024-05-30,Chinnaswamy,1,160,44,Nitish Rana,18,2,2,2
+Lockie Ferguson,KKR,MI,2024-05-24,Eden Gardens,1,143,37,Venkatesh Iyer,34,2,1,3
+Lockie Ferguson,KKR,DC,2024-05-21,Rajiv Gandhi,1,218,81,Andre Russell,32,3,2,1
+Lockie Ferguson,KKR,PBKS,2024-04-05,Motera,1,584,111,Sunil Narine,12,1,1,4
+Lockie Ferguson,KKR,MI,2024-05-10,Rajiv Gandhi,1,20,105,Nitish Rana,42,5,2,2
+Lockie Ferguson,KKR,RR,2024-05-03,Arun Jaitley,1,478,116,Sunil Narine,23,5,2,3
+Lockie Ferguson,KKR,MI,2024-05-25,Chinnaswamy,1,183,37,Venkatesh Iyer,26,1,0,2
+David Warner,DC,RR,2024-05-08,Rajiv Gandhi,1,2,45,Anrich Nortje,17,4,3,4
+David Warner,DC,GT,2024-04-26,Motera,1,118,80,Axar Patel,28,5,2,2
+David Warner,DC,GT,2024-05-08,Wankhede,1,160,75,Kuldeep Yadav,35,2,1,4
+David Warner,DC,GT,2024-05-05,Chepauk,1,140,35,Prithvi Shaw,56,5,2,0
+David Warner,DC,CSK,2024-05-01,Arun Jaitley,1,232,0,Prithvi Shaw,46,0,2,0
+David Warner,DC,KKR,2024-04-23,Rajiv Gandhi,1,161,7,Prithvi Shaw,20,4,3,2
+David Warner,DC,GT,2024-05-13,Eden Gardens,1,419,1,Prithvi Shaw,47,4,0,2
+David Warner,DC,LSG,2024-05-14,Sawai Mansingh,1,596,63,David Warner,41,5,3,3
+David Warner,DC,GT,2024-04-23,Chepauk,1,382,20,Axar Patel,31,3,3,0
+David Warner,DC,CSK,2024-05-28,Rajiv Gandhi,1,406,106,Anrich Nortje,51,1,1,0
+David Warner,DC,MI,2024-04-23,Wankhede,1,122,53,Anrich Nortje,55,3,3,0
+David Warner,DC,PBKS,2024-04-30,Rajiv Gandhi,1,73,11,Prithvi Shaw,27,2,3,1
+Prithvi Shaw,DC,PBKS,2024-04-03,Chinnaswamy,1,580,20,Axar Patel,22,3,1,0
+Prithvi Shaw,DC,MI,2024-05-03,Wankhede,1,181,81,David Warner,40,3,2,2
+Prithvi Shaw,DC,GT,2024-05-06,Wankhede,1,459,99,Axar Patel,28,2,1,1
+Prithvi Shaw,DC,CSK,2024-05-24,Motera,1,139,50,Axar Patel,31,5,1,4
+Prithvi Shaw,DC,CSK,2024-05-01,Rajiv Gandhi,1,302,10,Axar Patel,10,1,2,1
+Prithvi Shaw,DC,GT,2024-04-04,Motera,1,74,30,Prithvi Shaw,49,4,0,2
+Prithvi Shaw,DC,SRH,2024-05-16,Eden Gardens,1,439,29,Axar Patel,33,0,3,2
+Prithvi Shaw,DC,LSG,2024-04-05,Rajiv Gandhi,1,132,115,Kuldeep Yadav,17,2,0,4
+Prithvi Shaw,DC,PBKS,2024-04-28,Motera,1,498,17,David Warner,40,4,3,0
+Prithvi Shaw,DC,KKR,2024-04-20,Wankhede,1,134,111,Kuldeep Yadav,10,2,1,4
+Prithvi Shaw,DC,LSG,2024-05-24,Chinnaswamy,1,385,11,Prithvi Shaw,19,4,0,1
+Prithvi Shaw,DC,MI,2024-05-21,Arun Jaitley,1,165,11,Anrich Nortje,21,5,2,3
+Prithvi Shaw,DC,RR,2024-05-30,Motera,1,98,104,Anrich Nortje,12,0,2,0
+Prithvi Shaw,DC,RCB,2024-05-13,Arun Jaitley,1,303,10,Kuldeep Yadav,53,3,0,4
+Axar Patel,DC,KKR,2024-05-05,Wankhede,1,359,48,Prithvi Shaw,28,2,3,2
+Axar Patel,DC,RR,2024-04-04,Sawai Mansingh,1,321,40,David Warner,30,5,0,4
+Axar Patel,DC,GT,2024-04-16,Chepauk,1,436,30,David Warner,28,3,3,4
+Axar Patel,DC,RR,2024-05-14,Rajiv Gandhi,1,569,83,Kuldeep Yadav,27,2,2,4
+Axar Patel,DC,KKR,2024-05-17,Rajiv Gandhi,1,101,52,Kuldeep Yadav,28,1,0,4
+Axar Patel,DC,KKR,2024-05-03,Chepauk,1,106,32,David Warner,53,4,2,3
+Axar Patel,DC,KKR,2024-04-09,Chepauk,1,234,93,Kuldeep Yadav,40,2,1,1
+Axar Patel,DC,MI,2024-05-29,Chepauk,1,563,86,Kuldeep Yadav,22,4,2,2
+Axar Patel,DC,PBKS,2024-05-01,Arun Jaitley,1,544,102,Prithvi Shaw,18,4,3,1
+Axar Patel,DC,RR,2024-05-25,Motera,1,85,16,David Warner,18,0,3,2
+Anrich Nortje,DC,RR,2024-05-04,Chinnaswamy,1,517,96,Kuldeep Yadav,12,5,1,3
+Anrich Nortje,DC,LSG,2024-04-05,Rajiv Gandhi,1,99,115,David Warner,27,0,2,4
+Anrich Nortje,DC,CSK,2024-04-14,Sawai Mansingh,1,193,96,Axar Patel,50,3,1,3
+Anrich Nortje,DC,RR,2024-04-03,Chepauk,1,380,38,Axar Patel,59,0,3,3
+Anrich Nortje,DC,KKR,2024-05-25,Eden Gardens,1,394,9,Kuldeep Yadav,17,1,2,3
+Anrich Nortje,DC,PBKS,2024-04-22,Sawai Mansingh,1,226,55,Axar Patel,32,5,1,2
+Anrich Nortje,DC,KKR,2024-04-10,Motera,1,393,114,Kuldeep Yadav,28,0,3,3
+Anrich Nortje,DC,KKR,2024-04-09,Eden Gardens,1,440,73,Anrich Nortje,54,2,2,1
+Anrich Nortje,DC,CSK,2024-05-05,Arun Jaitley,1,112,3,Kuldeep Yadav,51,0,3,0
+Anrich Nortje,DC,RR,2024-05-15,Arun Jaitley,1,353,65,Anrich Nortje,35,2,1,4
+Anrich Nortje,DC,GT,2024-04-13,Chepauk,1,520,94,Axar Patel,41,3,3,0
+Anrich Nortje,DC,LSG,2024-04-27,Eden Gardens,1,181,5,Prithvi Shaw,45,2,2,0
+Anrich Nortje,DC,GT,2024-04-23,Sawai Mansingh,1,597,77,Axar Patel,22,3,1,2
+Anrich Nortje,DC,KKR,2024-04-03,Wankhede,1,256,26,Anrich Nortje,53,2,3,3
+Kuldeep Yadav,DC,RR,2024-04-08,Wankhede,1,77,109,Prithvi Shaw,26,4,2,0
+Kuldeep Yadav,DC,SRH,2024-04-08,Chinnaswamy,1,363,39,Anrich Nortje,36,4,2,0
+Kuldeep Yadav,DC,PBKS,2024-05-06,Wankhede,1,46,46,Kuldeep Yadav,55,1,1,3
+Kuldeep Yadav,DC,RCB,2024-05-07,Sawai Mansingh,1,166,34,Kuldeep Yadav,14,0,0,4
+Kuldeep Yadav,DC,RR,2024-04-18,Wankhede,1,97,102,Anrich Nortje,34,4,3,4
+Kuldeep Yadav,DC,RR,2024-04-04,Eden Gardens,1,317,63,David Warner,20,3,2,0
+Kuldeep Yadav,DC,GT,2024-05-18,Motera,1,17,109,Kuldeep Yadav,48,2,3,4
+Kuldeep Yadav,DC,PBKS,2024-04-18,Motera,1,53,11,Anrich Nortje,32,3,0,0
+Kuldeep Yadav,DC,GT,2024-04-22,Arun Jaitley,1,538,61,Kuldeep Yadav,42,0,2,0
+Kuldeep Yadav,DC,GT,2024-05-23,Wankhede,1,27,52,David Warner,32,2,3,0
+Kuldeep Yadav,DC,RCB,2024-04-14,Arun Jaitley,1,352,47,Prithvi Shaw,32,1,1,1
+Kuldeep Yadav,DC,CSK,2024-04-24,Arun Jaitley,1,267,99,Axar Patel,28,0,2,1
+Kuldeep Yadav,DC,CSK,2024-05-25,Chinnaswamy,1,554,11,Axar Patel,55,5,2,3
+KL Rahul,LSG,RCB,2024-05-17,Motera,1,165,105,Quinton de Kock,41,3,0,0
+KL Rahul,LSG,RR,2024-04-12,Chinnaswamy,1,344,5,Avesh Khan,48,3,2,2
+KL Rahul,LSG,CSK,2024-05-06,Arun Jaitley,1,537,92,Mark Wood,24,0,0,1
+KL Rahul,LSG,RR,2024-04-23,Eden Gardens,1,4,14,Quinton de Kock,27,5,1,2
+KL Rahul,LSG,GT,2024-05-01,Chinnaswamy,1,338,11,Marcus Stoinis,59,3,2,1
+KL Rahul,LSG,CSK,2024-05-14,Arun Jaitley,1,329,107,Marcus Stoinis,35,1,0,1
+KL Rahul,LSG,RR,2024-05-04,Chepauk,1,496,74,KL Rahul,56,3,3,4
+KL Rahul,LSG,RR,2024-04-07,Chinnaswamy,1,142,88,Marcus Stoinis,58,3,0,3
+KL Rahul,LSG,MI,2024-04-03,Arun Jaitley,1,545,55,Avesh Khan,30,0,3,2
+KL Rahul,LSG,KKR,2024-05-07,Motera,1,511,102,Avesh Khan,43,4,2,3
+Quinton de Kock,LSG,RCB,2024-04-23,Rajiv Gandhi,1,291,108,Mark Wood,36,5,3,4
+Quinton de Kock,LSG,GT,2024-05-07,Eden Gardens,1,457,2,Mark Wood,33,0,0,4
+Quinton de Kock,LSG,GT,2024-05-27,Wankhede,1,285,106,Quinton de Kock,32,4,1,3
+Quinton de Kock,LSG,CSK,2024-05-27,Chepauk,1,235,62,Mark Wood,40,4,1,2
+Quinton de Kock,LSG,KKR,2024-04-01,Rajiv Gandhi,1,286,5,Quinton de Kock,35,3,1,0
+Quinton de Kock,LSG,DC,2024-04-29,Chepauk,1,561,71,Avesh Khan,15,5,2,0
+Quinton de Kock,LSG,SRH,2024-04-18,Rajiv Gandhi,1,5,46,Mark Wood,36,5,1,2
+Quinton de Kock,LSG,RR,2024-04-28,Motera,1,266,50,Mark Wood,41,2,3,4
+Quinton de Kock,LSG,RCB,2024-05-10,Wankhede,1,227,2,KL Rahul,15,0,3,1
+Quinton de Kock,LSG,GT,2024-04-13,Eden Gardens,1,466,30,Avesh Khan,20,2,2,1
+Quinton de Kock,LSG,GT,2024-05-04,Chepauk,1,553,83,KL Rahul,56,3,2,1
+Quinton de Kock,LSG,KKR,2024-04-21,Motera,1,309,48,Mark Wood,16,4,2,3
+Marcus Stoinis,LSG,GT,2024-05-21,Chepauk,1,68,23,KL Rahul,40,3,2,2
+Marcus Stoinis,LSG,DC,2024-05-22,Sawai Mansingh,1,311,81,KL Rahul,47,4,0,0
+Marcus Stoinis,LSG,KKR,2024-05-27,Wankhede,1,40,94,Avesh Khan,27,2,3,4
+Marcus Stoinis,LSG,PBKS,2024-05-02,Rajiv Gandhi,1,119,44,Marcus Stoinis,43,2,3,4
+Marcus Stoinis,LSG,RR,2024-04-05,Sawai Mansingh,1,145,50,Mark Wood,12,2,0,1
+Marcus Stoinis,LSG,PBKS,2024-04-30,Wankhede,1,399,19,KL Rahul,48,0,2,1
+Marcus Stoinis,LSG,CSK,2024-04-21,Eden Gardens,1,217,61,Avesh Khan,12,3,2,4
+Marcus Stoinis,LSG,PBKS,2024-04-27,Eden Gardens,1,386,112,Marcus Stoinis,50,3,0,3
+Marcus Stoinis,LSG,RR,2024-04-17,Sawai Mansingh,1,300,10,Marcus Stoinis,21,4,2,2
+Marcus Stoinis,LSG,RCB,2024-05-22,Eden Gardens,1,551,96,KL Rahul,28,3,2,1
+Marcus Stoinis,LSG,MI,2024-04-19,Eden Gardens,1,381,94,Marcus Stoinis,20,4,0,4
+Marcus Stoinis,LSG,MI,2024-04-08,Motera,1,302,39,Quinton de Kock,43,5,3,4
+Marcus Stoinis,LSG,SRH,2024-05-11,Arun Jaitley,1,484,41,Quinton de Kock,33,3,3,1
+Avesh Khan,LSG,KKR,2024-05-04,Chepauk,1,327,81,KL Rahul,42,4,0,0
+Avesh Khan,LSG,RR,2024-05-15,Eden Gardens,1,542,98,Avesh Khan,56,5,0,4
+Avesh Khan,LSG,MI,2024-05-15,Sawai Mansingh,1,543,81,Avesh Khan,53,2,2,4
+Avesh Khan,LSG,RR,2024-04-20,Chepauk,1,575,109,Marcus Stoinis,21,5,1,4
+Avesh Khan,LSG,SRH,2024-04-12,Chepauk,1,573,89,KL Rahul,12,3,2,3
+Avesh Khan,LSG,CSK,2024-05-07,Sawai Mansingh,1,338,115,Mark Wood,12,1,1,3
+Avesh Khan,LSG,SRH,2024-04-04,Rajiv Gandhi,1,31,24,KL Rahul,48,4,2,3
+Avesh Khan,LSG,PBKS,2024-05-01,Arun Jaitley,1,91,91,Marcus Stoinis,28,2,0,2
+Avesh Khan,LSG,PBKS,2024-04-24,Rajiv Gandhi,1,593,85,KL Rahul,13,5,2,3
+Avesh Khan,LSG,KKR,2024-05-06,Sawai Mansingh,1,451,18,Quinton de Kock,53,2,0,2
+Mark Wood,LSG,SRH,2024-05-23,Chinnaswamy,1,26,77,Quinton de Kock,31,2,0,4
+Mark Wood,LSG,KKR,2024-04-08,Chinnaswamy,1,296,69,Mark Wood,34,0,0,0
+Mark Wood,LSG,PBKS,2024-04-11,Eden Gardens,1,447,119,Marcus Stoinis,18,4,0,2
+Mark Wood,LSG,KKR,2024-04-06,Sawai Mansingh,1,547,47,Avesh Khan,54,4,2,0
+Mark Wood,LSG,GT,2024-04-18,Chinnaswamy,1,580,104,KL Rahul,22,5,0,0
+Mark Wood,LSG,GT,2024-04-17,Sawai Mansingh,1,407,41,Avesh Khan,51,5,2,1
+Mark Wood,LSG,MI,2024-04-02,Sawai Mansingh,1,259,18,Avesh Khan,59,5,3,2
+Mark Wood,LSG,RCB,2024-05-26,Arun Jaitley,1,545,104,Quinton de Kock,19,2,3,3
+Mark Wood,LSG,PBKS,2024-04-24,Wankhede,1,77,119,Quinton de Kock,31,4,2,2
+Mark Wood,LSG,DC,2024-05-16,Eden Gardens,1,555,33,Quinton de Kock,13,4,0,1
+Mark Wood,LSG,KKR,2024-05-14,Arun Jaitley,1,534,66,KL Rahul,42,0,2,4
+Mark Wood,LSG,PBKS,2024-04-23,Chepauk,1,193,59,Quinton de Kock,54,5,1,3
+Mark Wood,LSG,SRH,2024-05-20,Sawai Mansingh,1,451,107,Avesh Khan,54,0,0,4
+Mark Wood,LSG,KKR,2024-05-29,Chepauk,1,351,77,Marcus Stoinis,36,4,1,3
+Kane Williamson,SRH,RR,2024-04-22,Sawai Mansingh,1,418,39,Umran Malik,52,1,1,1
+Kane Williamson,SRH,MI,2024-04-09,Wankhede,1,546,71,Harry Brook,51,5,1,2
+Kane Williamson,SRH,PBKS,2024-04-17,Wankhede,1,443,98,Harry Brook,50,3,1,4
+Kane Williamson,SRH,DC,2024-04-04,Wankhede,1,56,112,Kane Williamson,49,3,1,3
+Kane Williamson,SRH,GT,2024-04-05,Eden Gardens,1,399,84,Rahul Tripathi,47,3,1,2
+Kane Williamson,SRH,MI,2024-04-06,Eden Gardens,1,5,108,Kane Williamson,29,5,3,2
+Kane Williamson,SRH,MI,2024-04-27,Arun Jaitley,1,256,64,Umran Malik,10,5,1,3
+Kane Williamson,SRH,PBKS,2024-04-24,Rajiv Gandhi,1,116,113,Rahul Tripathi,28,0,3,2
+Kane Williamson,SRH,PBKS,2024-04-17,Motera,1,308,72,Bhuvneshwar Kumar,17,4,3,2
+Kane Williamson,SRH,PBKS,2024-05-21,Arun Jaitley,1,63,115,Bhuvneshwar Kumar,43,5,1,3
+Kane Williamson,SRH,MI,2024-05-07,Chinnaswamy,1,317,65,Rahul Tripathi,38,2,0,0
+Kane Williamson,SRH,CSK,2024-05-27,Sawai Mansingh,1,134,84,Umran Malik,55,1,1,4
+Bhuvneshwar Kumar,SRH,KKR,2024-05-04,Chinnaswamy,1,588,2,Rahul Tripathi,51,4,2,2
+Bhuvneshwar Kumar,SRH,PBKS,2024-04-05,Rajiv Gandhi,1,349,46,Kane Williamson,24,2,2,0
+Bhuvneshwar Kumar,SRH,GT,2024-05-15,Motera,1,450,22,Kane Williamson,60,0,3,2
+Bhuvneshwar Kumar,SRH,RCB,2024-04-27,Chepauk,1,476,79,Umran Malik,37,1,0,0
+Bhuvneshwar Kumar,SRH,RCB,2024-04-17,Chinnaswamy,1,256,95,Bhuvneshwar Kumar,25,2,2,0
+Bhuvneshwar Kumar,SRH,GT,2024-04-24,Arun Jaitley,1,237,10,Umran Malik,18,5,2,4
+Bhuvneshwar Kumar,SRH,RCB,2024-05-25,Rajiv Gandhi,1,13,109,Kane Williamson,37,2,2,1
+Bhuvneshwar Kumar,SRH,LSG,2024-05-27,Rajiv Gandhi,1,551,42,Umran Malik,50,3,1,2
+Bhuvneshwar Kumar,SRH,MI,2024-04-04,Chepauk,1,359,44,Bhuvneshwar Kumar,12,5,1,0
+Bhuvneshwar Kumar,SRH,RR,2024-05-05,Rajiv Gandhi,1,76,54,Bhuvneshwar Kumar,54,3,0,0
+Bhuvneshwar Kumar,SRH,PBKS,2024-04-04,Rajiv Gandhi,1,347,34,Bhuvneshwar Kumar,44,5,2,3
+Harry Brook,SRH,RR,2024-05-28,Eden Gardens,1,177,112,Harry Brook,51,3,0,3
+Harry Brook,SRH,RCB,2024-04-30,Arun Jaitley,1,580,114,Kane Williamson,45,1,0,3
+Harry Brook,SRH,RCB,2024-04-21,Rajiv Gandhi,1,220,113,Kane Williamson,60,1,0,1
+Harry Brook,SRH,RCB,2024-04-21,Arun Jaitley,1,294,56,Kane Williamson,22,5,2,4
+Harry Brook,SRH,KKR,2024-04-18,Wankhede,1,454,6,Bhuvneshwar Kumar,42,5,0,3
+Harry Brook,SRH,LSG,2024-05-17,Motera,1,594,8,Umran Malik,42,4,0,2
+Harry Brook,SRH,LSG,2024-05-15,Rajiv Gandhi,1,460,2,Umran Malik,38,5,1,3
+Harry Brook,SRH,GT,2024-05-13,Eden Gardens,1,373,6,Rahul Tripathi,35,5,2,0
+Harry Brook,SRH,GT,2024-05-14,Sawai Mansingh,1,499,45,Rahul Tripathi,49,3,3,1
+Harry Brook,SRH,PBKS,2024-05-01,Wankhede,1,270,86,Bhuvneshwar Kumar,31,2,1,0
+Umran Malik,SRH,RR,2024-04-26,Rajiv Gandhi,1,373,112,Bhuvneshwar Kumar,58,2,0,4
+Umran Malik,SRH,GT,2024-05-01,Chepauk,1,559,56,Umran Malik,44,3,1,4
+Umran Malik,SRH,PBKS,2024-05-07,Arun Jaitley,1,133,6,Bhuvneshwar Kumar,59,5,2,3
+Umran Malik,SRH,GT,2024-04-15,Chepauk,1,391,47,Umran Malik,35,3,0,1
+Umran Malik,SRH,LSG,2024-04-29,Sawai Mansingh,1,435,39,Umran Malik,20,3,0,0
+Umran Malik,SRH,GT,2024-05-28,Chepauk,1,81,96,Bhuvneshwar Kumar,28,2,1,2
+Umran Malik,SRH,RCB,2024-05-30,Wankhede,1,589,89,Harry Brook,36,1,1,1
+Umran Malik,SRH,CSK,2024-05-17,Arun Jaitley,1,447,20,Harry Brook,34,1,3,1
+Umran Malik,SRH,PBKS,2024-04-04,Motera,1,393,82,Harry Brook,39,0,0,3
+Umran Malik,SRH,LSG,2024-05-07,Chepauk,1,229,49,Kane Williamson,33,2,2,2
+Umran Malik,SRH,RCB,2024-05-20,Chinnaswamy,1,449,52,Harry Brook,19,0,0,4
+Rahul Tripathi,SRH,CSK,2024-05-17,Arun Jaitley,1,411,73,Bhuvneshwar Kumar,18,3,0,2
+Rahul Tripathi,SRH,MI,2024-05-16,Chinnaswamy,1,269,59,Rahul Tripathi,30,4,3,3
+Rahul Tripathi,SRH,LSG,2024-04-30,Wankhede,1,269,74,Umran Malik,19,1,0,2
+Rahul Tripathi,SRH,PBKS,2024-04-16,Sawai Mansingh,1,27,98,Umran Malik,21,2,2,2
+Rahul Tripathi,SRH,LSG,2024-05-22,Sawai Mansingh,1,295,30,Harry Brook,19,2,1,3
+Rahul Tripathi,SRH,RCB,2024-04-15,Motera,1,544,95,Harry Brook,43,2,3,0
+Rahul Tripathi,SRH,CSK,2024-05-24,Wankhede,1,100,60,Bhuvneshwar Kumar,33,1,1,2
+Rahul Tripathi,SRH,GT,2024-05-30,Chepauk,1,12,50,Umran Malik,31,0,3,2
+Rahul Tripathi,SRH,CSK,2024-05-26,Wankhede,1,339,39,Umran Malik,24,3,0,1
+Rahul Tripathi,SRH,LSG,2024-05-18,Sawai Mansingh,1,427,90,Rahul Tripathi,15,5,2,2
+Rahul Tripathi,SRH,LSG,2024-05-30,Wankhede,1,318,16,Umran Malik,45,2,0,2
+Rahul Tripathi,SRH,RCB,2024-04-09,Arun Jaitley,1,444,43,Umran Malik,18,4,2,3
+Rahul Tripathi,SRH,RR,2024-04-01,Sawai Mansingh,1,349,37,Rahul Tripathi,51,1,2,2
+Sanju Samson,RR,KKR,2024-04-23,Rajiv Gandhi,1,393,0,Yuzvendra Chahal,21,2,3,3
+Sanju Samson,RR,RCB,2024-05-22,Rajiv Gandhi,1,425,47,Jos Buttler,21,4,2,0
+Sanju Samson,RR,DC,2024-04-29,Arun Jaitley,1,453,18,Shimron Hetmyer,13,4,0,4
+Sanju Samson,RR,KKR,2024-04-27,Motera,1,9,69,Jos Buttler,29,4,2,0
+Sanju Samson,RR,LSG,2024-05-24,Arun Jaitley,1,178,20,Trent Boult,24,5,1,1
+Sanju Samson,RR,RCB,2024-04-27,Rajiv Gandhi,1,13,21,Shimron Hetmyer,34,2,3,4
+Sanju Samson,RR,RCB,2024-05-17,Eden Gardens,1,528,56,Shimron Hetmyer,22,0,1,3
+Sanju Samson,RR,MI,2024-05-10,Chepauk,1,271,108,Jos Buttler,60,1,3,4
+Sanju Samson,RR,SRH,2024-04-16,Rajiv Gandhi,1,481,7,Shimron Hetmyer,18,5,3,3
+Sanju Samson,RR,LSG,2024-04-01,Arun Jaitley,1,134,40,Jos Buttler,32,5,0,4
+Sanju Samson,RR,KKR,2024-04-10,Eden Gardens,1,315,34,Trent Boult,47,3,0,2
+Sanju Samson,RR,PBKS,2024-04-09,Rajiv Gandhi,1,281,48,Trent Boult,37,3,2,0
+Jos Buttler,RR,RCB,2024-04-20,Chepauk,1,525,36,Shimron Hetmyer,17,0,0,1
+Jos Buttler,RR,CSK,2024-04-20,Rajiv Gandhi,1,330,34,Trent Boult,19,3,0,0
+Jos Buttler,RR,CSK,2024-05-21,Wankhede,1,531,85,Trent Boult,30,4,1,4
+Jos Buttler,RR,LSG,2024-04-16,Rajiv Gandhi,1,475,83,Jos Buttler,23,1,0,2
+Jos Buttler,RR,PBKS,2024-05-24,Arun Jaitley,1,423,10,Yuzvendra Chahal,40,2,2,3
+Jos Buttler,RR,LSG,2024-04-09,Chinnaswamy,1,212,60,Jos Buttler,41,4,3,1
+Jos Buttler,RR,PBKS,2024-04-13,Rajiv Gandhi,1,596,13,Sanju Samson,14,1,1,4
+Jos Buttler,RR,PBKS,2024-05-29,Chepauk,1,110,27,Yuzvendra Chahal,22,0,3,0
+Jos Buttler,RR,RCB,2024-04-21,Wankhede,1,329,59,Trent Boult,25,4,1,1
+Jos Buttler,RR,RCB,2024-04-22,Eden Gardens,1,97,65,Shimron Hetmyer,16,0,3,2
+Jos Buttler,RR,CSK,2024-05-18,Sawai Mansingh,1,304,22,Jos Buttler,39,2,2,1
+Jos Buttler,RR,KKR,2024-04-12,Sawai Mansingh,1,270,0,Sanju Samson,21,5,3,4
+Jos Buttler,RR,GT,2024-04-17,Wankhede,1,95,20,Yuzvendra Chahal,32,4,0,2
+Jos Buttler,RR,PBKS,2024-05-27,Chinnaswamy,1,505,17,Jos Buttler,55,5,0,4
+Yuzvendra Chahal,RR,RCB,2024-05-24,Motera,1,220,3,Yuzvendra Chahal,30,1,3,2
+Yuzvendra Chahal,RR,GT,2024-04-12,Wankhede,1,187,24,Jos Buttler,29,3,0,1
+Yuzvendra Chahal,RR,GT,2024-04-22,Motera,1,458,71,Sanju Samson,20,3,2,0
+Yuzvendra Chahal,RR,SRH,2024-04-16,Motera,1,41,69,Trent Boult,42,5,2,2
+Yuzvendra Chahal,RR,CSK,2024-05-10,Arun Jaitley,1,76,116,Sanju Samson,42,0,1,4
+Yuzvendra Chahal,RR,GT,2024-04-27,Motera,1,261,86,Sanju Samson,23,4,2,0
+Yuzvendra Chahal,RR,PBKS,2024-04-25,Motera,1,35,41,Jos Buttler,52,4,2,3
+Yuzvendra Chahal,RR,CSK,2024-05-23,Chepauk,1,33,102,Shimron Hetmyer,51,1,3,0
+Yuzvendra Chahal,RR,DC,2024-05-26,Wankhede,1,185,29,Sanju Samson,34,5,0,2
+Yuzvendra Chahal,RR,LSG,2024-05-17,Arun Jaitley,1,497,99,Jos Buttler,43,3,2,0
+Yuzvendra Chahal,RR,RCB,2024-04-23,Sawai Mansingh,1,383,45,Sanju Samson,36,5,1,0
+Yuzvendra Chahal,RR,MI,2024-04-24,Wankhede,1,108,83,Sanju Samson,43,5,2,3
+Yuzvendra Chahal,RR,LSG,2024-04-01,Chinnaswamy,1,457,37,Sanju Samson,29,0,3,3
+Yuzvendra Chahal,RR,CSK,2024-04-19,Rajiv Gandhi,1,153,116,Yuzvendra Chahal,14,3,3,1
+Trent Boult,RR,RCB,2024-04-16,Arun Jaitley,1,170,31,Jos Buttler,35,0,3,0
+Trent Boult,RR,MI,2024-05-03,Chinnaswamy,1,119,113,Jos Buttler,18,1,3,2
+Trent Boult,RR,SRH,2024-04-16,Wankhede,1,437,21,Trent Boult,25,5,2,2
+Trent Boult,RR,GT,2024-04-13,Chinnaswamy,1,571,2,Yuzvendra Chahal,39,0,0,2
+Trent Boult,RR,RCB,2024-05-23,Motera,1,598,0,Trent Boult,52,4,2,4
+Trent Boult,RR,KKR,2024-05-18,Wankhede,1,503,41,Jos Buttler,41,0,3,2
+Trent Boult,RR,SRH,2024-05-05,Arun Jaitley,1,178,26,Sanju Samson,49,1,1,4
+Trent Boult,RR,DC,2024-05-30,Eden Gardens,1,277,40,Trent Boult,18,0,1,0
+Trent Boult,RR,LSG,2024-04-14,Rajiv Gandhi,1,430,114,Sanju Samson,40,5,0,3
+Trent Boult,RR,GT,2024-05-11,Arun Jaitley,1,169,64,Jos Buttler,60,5,3,2
+Trent Boult,RR,SRH,2024-04-30,Eden Gardens,1,199,119,Sanju Samson,53,0,2,1
+Trent Boult,RR,LSG,2024-05-23,Sawai Mansingh,1,538,106,Sanju Samson,11,1,0,2
+Shimron Hetmyer,RR,SRH,2024-05-06,Sawai Mansingh,1,329,25,Jos Buttler,29,3,0,4
+Shimron Hetmyer,RR,KKR,2024-05-04,Rajiv Gandhi,1,540,114,Yuzvendra Chahal,36,4,1,4
+Shimron Hetmyer,RR,PBKS,2024-04-29,Chepauk,1,394,120,Jos Buttler,54,1,3,4
+Shimron Hetmyer,RR,RCB,2024-05-14,Rajiv Gandhi,1,487,19,Jos Buttler,46,5,0,3
+Shimron Hetmyer,RR,DC,2024-05-12,Motera,1,162,110,Yuzvendra Chahal,26,2,3,2
+Shimron Hetmyer,RR,KKR,2024-05-30,Motera,1,335,41,Trent Boult,44,1,1,3
+Shimron Hetmyer,RR,CSK,2024-05-03,Chepauk,1,168,51,Shimron Hetmyer,17,0,2,2
+Shimron Hetmyer,RR,LSG,2024-05-08,Arun Jaitley,1,508,33,Shimron Hetmyer,57,2,2,4
+Shimron Hetmyer,RR,CSK,2024-04-13,Chepauk,1,26,24,Trent Boult,24,4,1,3
+Shimron Hetmyer,RR,GT,2024-04-20,Sawai Mansingh,1,314,73,Yuzvendra Chahal,17,3,1,1
+Shimron Hetmyer,RR,KKR,2024-04-03,Wankhede,1,115,22,Trent Boult,42,4,0,2
+Shikhar Dhawan,PBKS,CSK,2024-05-16,Chinnaswamy,1,48,89,Arshdeep Singh,38,0,0,0
+Shikhar Dhawan,PBKS,GT,2024-05-16,Arun Jaitley,1,150,57,Kagiso Rabada,35,4,2,1
+Shikhar Dhawan,PBKS,RCB,2024-05-01,Chinnaswamy,1,496,37,Kagiso Rabada,15,4,3,3
+Shikhar Dhawan,PBKS,KKR,2024-05-22,Arun Jaitley,1,62,93,Arshdeep Singh,52,0,1,4
+Shikhar Dhawan,PBKS,GT,2024-05-14,Wankhede,1,345,101,Shikhar Dhawan,42,2,1,2
+Shikhar Dhawan,PBKS,RR,2024-05-12,Wankhede,1,3,88,Liam Livingstone,44,1,2,2
+Shikhar Dhawan,PBKS,LSG,2024-04-28,Eden Gardens,1,26,107,Shikhar Dhawan,42,4,2,1
+Shikhar Dhawan,PBKS,GT,2024-05-14,Arun Jaitley,1,580,9,Sam Curran,13,0,2,4
+Shikhar Dhawan,PBKS,CSK,2024-04-08,Motera,1,383,113,Arshdeep Singh,36,2,2,0
+Shikhar Dhawan,PBKS,KKR,2024-04-29,Chepauk,1,105,93,Kagiso Rabada,14,3,2,1
+Shikhar Dhawan,PBKS,MI,2024-05-11,Rajiv Gandhi,1,366,4,Shikhar Dhawan,52,3,1,4
+Arshdeep Singh,PBKS,LSG,2024-04-07,Arun Jaitley,1,361,0,Arshdeep Singh,36,4,3,1
+Arshdeep Singh,PBKS,MI,2024-04-08,Rajiv Gandhi,1,240,19,Shikhar Dhawan,25,0,3,0
+Arshdeep Singh,PBKS,CSK,2024-05-03,Motera,1,590,98,Kagiso Rabada,13,4,1,2
+Arshdeep Singh,PBKS,RR,2024-05-28,Sawai Mansingh,1,276,16,Liam Livingstone,41,2,1,2
+Arshdeep Singh,PBKS,GT,2024-04-14,Motera,1,582,8,Sam Curran,27,1,0,3
+Arshdeep Singh,PBKS,RCB,2024-05-08,Chinnaswamy,1,421,44,Liam Livingstone,43,3,3,3
+Arshdeep Singh,PBKS,GT,2024-05-03,Wankhede,1,594,41,Kagiso Rabada,15,2,2,2
+Arshdeep Singh,PBKS,RCB,2024-05-18,Chinnaswamy,1,358,84,Shikhar Dhawan,14,0,0,4
+Arshdeep Singh,PBKS,GT,2024-05-13,Wankhede,1,20,25,Shikhar Dhawan,11,0,1,4
+Arshdeep Singh,PBKS,LSG,2024-04-23,Motera,1,473,29,Arshdeep Singh,26,2,1,2
+Liam Livingstone,PBKS,SRH,2024-04-19,Chinnaswamy,1,413,29,Sam Curran,20,0,1,0
+Liam Livingstone,PBKS,SRH,2024-04-02,Sawai Mansingh,1,595,90,Kagiso Rabada,34,2,1,3
+Liam Livingstone,PBKS,SRH,2024-05-04,Arun Jaitley,1,105,33,Shikhar Dhawan,53,1,3,3
+Liam Livingstone,PBKS,CSK,2024-05-26,Chinnaswamy,1,479,6,Liam Livingstone,23,0,3,4
+Liam Livingstone,PBKS,SRH,2024-04-11,Eden Gardens,1,323,44,Arshdeep Singh,50,0,2,4
+Liam Livingstone,PBKS,LSG,2024-04-30,Motera,1,535,59,Arshdeep Singh,43,1,3,0
+Liam Livingstone,PBKS,DC,2024-04-15,Rajiv Gandhi,1,184,22,Liam Livingstone,22,0,2,2
+Liam Livingstone,PBKS,LSG,2024-05-14,Chepauk,1,206,13,Sam Curran,23,2,3,0
+Liam Livingstone,PBKS,KKR,2024-05-05,Rajiv Gandhi,1,172,73,Liam Livingstone,22,1,2,0
+Liam Livingstone,PBKS,SRH,2024-05-09,Arun Jaitley,1,353,79,Kagiso Rabada,60,5,0,1
+Liam Livingstone,PBKS,LSG,2024-04-28,Chinnaswamy,1,182,76,Liam Livingstone,39,0,0,4
+Liam Livingstone,PBKS,KKR,2024-05-27,Rajiv Gandhi,1,480,29,Sam Curran,47,3,3,1
+Liam Livingstone,PBKS,CSK,2024-05-26,Motera,1,535,110,Kagiso Rabada,52,3,0,1
+Liam Livingstone,PBKS,RR,2024-05-04,Motera,1,404,82,Sam Curran,10,1,2,1
+Sam Curran,PBKS,RR,2024-04-06,Sawai Mansingh,1,467,97,Liam Livingstone,30,2,0,3
+Sam Curran,PBKS,DC,2024-05-29,Wankhede,1,558,6,Liam Livingstone,28,5,1,3
+Sam Curran,PBKS,GT,2024-05-30,Arun Jaitley,1,307,86,Sam Curran,29,3,2,2
+Sam Curran,PBKS,RCB,2024-05-12,Arun Jaitley,1,15,85,Shikhar Dhawan,45,5,2,2
+Sam Curran,PBKS,GT,2024-05-13,Wankhede,1,284,34,Sam Curran,12,2,2,2
+Sam Curran,PBKS,RR,2024-05-03,Motera,1,115,0,Liam Livingstone,31,5,2,3
+Sam Curran,PBKS,RR,2024-05-13,Motera,1,552,10,Arshdeep Singh,37,2,3,2
+Sam Curran,PBKS,MI,2024-05-21,Arun Jaitley,1,441,87,Arshdeep Singh,24,1,2,0
+Sam Curran,PBKS,KKR,2024-05-22,Sawai Mansingh,1,302,119,Sam Curran,50,1,0,2
+Sam Curran,PBKS,RCB,2024-05-02,Chepauk,1,377,103,Liam Livingstone,27,1,3,2
+Sam Curran,PBKS,LSG,2024-04-01,Rajiv Gandhi,1,193,102,Liam Livingstone,41,3,2,4
+Kagiso Rabada,PBKS,LSG,2024-05-03,Chepauk,1,88,72,Arshdeep Singh,20,4,1,2
+Kagiso Rabada,PBKS,LSG,2024-05-09,Chepauk,1,503,6,Kagiso Rabada,53,1,2,4
+Kagiso Rabada,PBKS,MI,2024-04-01,Rajiv Gandhi,1,519,17,Shikhar Dhawan,59,2,3,4
+Kagiso Rabada,PBKS,SRH,2024-04-20,Wankhede,1,448,71,Liam Livingstone,52,4,1,0
+Kagiso Rabada,PBKS,CSK,2024-05-07,Sawai Mansingh,1,289,69,Shikhar Dhawan,19,4,3,4
+Kagiso Rabada,PBKS,RCB,2024-05-17,Eden Gardens,1,258,116,Kagiso Rabada,51,0,1,3
+Kagiso Rabada,PBKS,RCB,2024-05-20,Motera,1,184,14,Shikhar Dhawan,11,1,2,1
+Kagiso Rabada,PBKS,RCB,2024-04-18,Rajiv Gandhi,1,240,71,Arshdeep Singh,56,5,3,4
+Kagiso Rabada,PBKS,KKR,2024-05-01,Chepauk,1,338,38,Sam Curran,41,4,0,0
+Kagiso Rabada,PBKS,RCB,2024-05-23,Wankhede,1,401,117,Arshdeep Singh,48,0,2,1
+Kagiso Rabada,PBKS,RR,2024-05-07,Eden Gardens,1,223,61,Liam Livingstone,60,1,0,4
+Kagiso Rabada,PBKS,GT,2024-04-22,Chepauk,1,378,38,Shikhar Dhawan,42,2,2,2
+Kagiso Rabada,PBKS,DC,2024-04-20,Chepauk,1,309,73,Kagiso Rabada,26,5,0,0
+Kagiso Rabada,PBKS,GT,2024-05-26,Wankhede,1,449,106,Shikhar Dhawan,42,0,0,1
